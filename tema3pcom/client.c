@@ -12,6 +12,9 @@
 #include "requests.h"
 #include "parson.h"
 
+// to change the server address
+// ctrl+R -> 34.241.4.235
+
 #define BUFFERS 100
 
 bool number(char *num) {
