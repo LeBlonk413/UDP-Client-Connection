@@ -1,4 +1,4 @@
-# Tema-3-PCom
+# Client-Server UDP Connection
 
 This is the code for a client that connects to a server with books. Each user
 has their own library where they can add, check or delete books. For each
